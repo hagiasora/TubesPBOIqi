@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="com.jfoenix:jfoenix:1.4.0" />
+  <library name="jfoenix">
+    <archive path="/home/doublesinlove/Downloads/jfoenix.jar" />
+  </library>
+</eclipse-userlibraries>
+
